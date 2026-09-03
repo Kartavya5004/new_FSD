@@ -12,8 +12,9 @@ function register(){
 function login(){
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            reject();
+            
             console.log("logging in");
+            reject();
         },200);
     })
     

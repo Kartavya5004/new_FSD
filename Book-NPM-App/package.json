@@ -1,0 +1,17 @@
+{
+  "name": "book-npm-app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "kartavya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
